@@ -5,8 +5,8 @@
 - 🕹️ Technologies and Games Lover
 <div style="display: inline_block">
   <a href="https://github.com/matheusmarqui1">
-  <img style="display: inline_block" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=matheusmarqui1&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img style="display: inline_block" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarqui1&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img style="display: inline_block" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=matheusmarqui1&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true?"/>
+  <img style="display: inline_block" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarqui1&layout=compact&langs_count=7&theme=material-palenight?"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
