@@ -3,6 +3,8 @@
 - 🌱 Graduating a Bachelor degree in Cefet RJ
 - 🎨 I'm a very creative person
 - 🕹️ Technologies and Games Lover
+- ☕ Developer that doesn't like coffe but drinks it by need
+- 🍃 Spring Boot and Microservices
 <div style="display: inline_block">
   <a href="https://github.com/matheusmarqui1">
   <img style="display: inline_block" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=matheusmarqui1&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true?"/>
