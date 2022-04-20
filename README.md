@@ -1,6 +1,6 @@
 ### Hi there, ````i'm Matheus```` !                     <img align="center" alt="matheus-marqui" width="16%"                src="https://pa1.narvii.com/6715/51b86154d79c58f897c4e82f5728e66daa17409d_hq.gif">
 - 🔭 I’m a Java and PHP Developer 
-- 🌱 Graduating a Bachelor degree in Cefet RJ
+- 🌱 Graduating a Bachelor's degree in Information Systems
 - 🎨 I'm a very creative person
 - 🕹️ Technologies and Games Lover
 - ☕ Developer that doesn't like coffe but drinks it by need
