@@ -7,7 +7,6 @@
 - 🍃 Spring Boot and Microservices
 <div style="display: inline_block">
   <a href="https://github.com/matheusmarqui1">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <img style="display: inline_block" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarqui1&layout=compact&langs_count=7&theme=material-palenight&test=?"/>
 </div>
   <div style="display: inline_block"><br>
@@ -29,3 +28,4 @@
 
  
 </div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmarqui1&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
