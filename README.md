@@ -26,6 +26,6 @@
   <a href="https://www.linkedin.com/in/matheus-marqui-b219a9236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
 
- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmarqui1&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
 </div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmarqui1&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
