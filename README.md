@@ -7,7 +7,6 @@
 - 🍃 Spring Boot and Microservices
 <div style="display: inline_block">
   <a href="https://github.com/matheusmarqui1">
-  <img style="display: inline_block" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarqui1&layout=compact&langs_count=7&theme=material-palenight&test=?"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
@@ -26,6 +25,7 @@
   <a href="https://www.linkedin.com/in/matheus-marqui-b219a9236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmarqui1&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmarqui1&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarqui1&layout=compact&langs_count=7&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
