@@ -28,6 +28,6 @@
    
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmarqui1&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarqui1&langs_count=3&theme=material-palenight&hide=c++)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarqui1&langs_count=3&theme=material-palenight&hide=cpp)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
